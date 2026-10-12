@@ -1,0 +1,6 @@
+{
+  "name": "Super Investing Intelligence — AI Research Agent",
+  "description": "Institutional-grade AI stock research agent for long-term investors analyzing Indian public companies with multi-stage evidence extraction, numerical contradiction detection, entity disambiguation, prompt injection defense, and citation verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
